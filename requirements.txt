@@ -1,0 +1,8 @@
+mkdocs==1.5.3
+mkdocs-material==9.5.10
+pandas
+matplotlib
+ttkbootstrap
+numpy
+mkdocs-pdf
+mkdocs-jupyter

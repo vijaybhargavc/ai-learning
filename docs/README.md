@@ -1,0 +1,68 @@
+# AI Learning Group 
+Welcome to the official repository for the Toronto AI Learning Group - a collaborative space where community-led sessions, resources, and discussions are organized and shared.
+
+---
+
+  **Objective & Focus** of the Group is **Collaborative Learning** and **Collective Growth** to foster **Collective Intelligence**. 
+
+  > **"If you want to go fast, you might go alone. If you want to go far, we have to go together."** 
+
+  * **“None of us is as smart as all of us.”** — *Ken Blanchard*
+  * **“If everyone is moving forward together, then success takes care of itself.”** — *Henry Ford*
+  * **“The whole is greater than the sum of its parts.”** — *Aristotle*
+  * **“Alone we can do so little; together we can do so much.”** — *Helen Keller*
+
+  > *“We just need to lay a brick each day, without fail, the wall will be built.”*
+
+---
+
+### 📚 Purpose
+
+  Learn in collaboration than in isolation. Ask, Learn, Teach, Build togehter.
+  Motivate each, new learning can really go really far and advanced when we have company and team to work with.
+
+### 🤝 Community Ethos
+
+  Keep up the collaborative spirit of our learning group. 
+  We encourage respectful dialogue, curiosity-driven exploration, and inclusive participation.
+
+  [Community Values & Learning Together](community-values-guidelines/Community-main.md) 
+
+  [Contributing Guide](community-values-guidelines/ContributingGuide.md)
+
+  [Community WhatsApp Group](https://chat.whatsapp.com/HHAhadA4sIx7LPQ9jt2ZSQ)
+
+  [Community Discord Channel](https://discord.gg/GYuc6adH)
+
+  [Group Repository](https://github.com/tejomayee-tech/toronto_ai_learning_group)  
+
+
+  The [repository](https://github.com/tejomayee-tech/toronto_ai_learning_group) is public and serves as a centralized archive for all materials presented or referenced during our learning sessions. By consolidating content in one place, we aim to foster accessibility, continuity, and shared growth across our community of learners and educators.
+
+
+### 🗓️ Scheduling Sessions
+
+  [Groups Open Sessoin Calendar](https://teamup.com/ksxott7u7sbhts6s9e)
+
+  [Groups Google Calendar for Reminders](https://calendar.google.com/calendar/u/3?cid=N2UyMjdjMGZkODBlYzY0NjA3NzM1NDYxZjRmYTAzYTUxMGZlYmZkNTY5ODE5MWE5MjIxMDRkZjBlMDVkYWVmM0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+
+  Sessions are added on a rolling basis by contributors and facilitators. If you would like to contribute materials or suggest improvements to the structure, feel free to open an issue or submit a pull request.
+
+
+### 🎯 In one line from **ChatGPT**
+
+  The culture of open sharing, learning, and collaboration is the **engine of progress in AI**.  Frameworks like **TensorFlow, PyTorch, Hugging Face Transformers, scikit-learn** and even **Linux/Ubuntu** that powered most AI systems itself are open-source. Without them, no AI researcher or startup could move quickly.
+
+  Real growth comes from **sharing inspiring learning content, connecting ideas, building practical use cases, and diving deep with curiosity and creativity**. Its always to good have someone to talk to, feels like home. Isn't Learning in a group super fun..? 
+
+  Sharing **promotions, referrals, or marketing content** in a group is fine. Please note that they mostly drive usage and sales and they rarely contribute to true learning or collaborative building.   
+
+  Proprietary tools are the **vehicles** that make that progress practical, accessible, and sustainable. But without the engine, the vehicle goes nowhere. 
+
+ 
+### ⚖️ Rule of Thumb
+
+* **Beginners → 70% foundation (open, self-built), 30% convenience (proprietary tools).**
+* As you advance, you’ll naturally shift — using open tools for innovation, proprietary tools for scale.
+
+### Happy Learning! 😊
